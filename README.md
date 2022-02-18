@@ -1,0 +1,2 @@
+# RHCSA_Setting_Variables_Automatically
+RHCSA_Setting_Variables_Automatically
